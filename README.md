@@ -12,3 +12,13 @@ git clone https://github.com/Jetrom17/proxy-checker && cd proxy-checker && pip i
 ```
 
 > Multiplataform.
+
+### How to use via CLI?
+
+> The file name must be named "proxy.txt".
+
+- Use:
+
+```py
+python setup.py
+```
