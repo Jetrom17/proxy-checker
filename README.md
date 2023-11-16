@@ -1,3 +1,10 @@
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://raw.githubusercontent.com/Jetrom17/proxy-checker/main/ia_bing.jpeg" width="400px" alt="proxy-banner-ai"></a>
+</h1>
+
+#
+
 # proxy-checker
 Check your proxies easily and quickly!
 
